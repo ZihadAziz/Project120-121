@@ -1,0 +1,30 @@
+#google_lens_logo {
+    width: 150px;
+    height: 150px;
+}
+.mobilnet {
+    margin: 15px;
+}
+
+.Images {
+    width: 250px;
+
+}
+
+h3 {
+    display: inline;
+    background-color: white;
+    border-radius: 50px;
+}
+.mobilenet_vs_googlelens {
+    background-color: gray;
+    width: 80%;
+    padding: 15px;
+    border-radius: 50px;
+    box-shadow: 5px 5px 5px gray;
+    margin-top: 25px;
+}
+.SpanTag {
+    display: inline;
+    width: 80%;
+}
